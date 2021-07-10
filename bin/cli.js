@@ -42,7 +42,7 @@ program
 program
     .on('--help', () => {
         // 使用 figlet 绘制 Logo
-        console.log('\r\n' + figlet.textSync('zhurong', {
+        console.log('\r\n' + figlet.textSync('llzscc', {
             font: 'Ghost',
             horizontalLayout: 'default',
             verticalLayout: 'default',
